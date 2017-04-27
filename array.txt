@@ -1,0 +1,17 @@
+var siteDescriptions = {
+	'SR1Aa': 'of Site 1 sampled on 9/11/15',
+	'SR1Ab': 'of Site 1 sampled on 9/11/15',
+	'SR1Bb': 'of Site 1 sampled on 9/25/15',
+	'SR1Cb': 'of Site 1 sampled on 10/09/15',
+	'SR1Da': 'of Site 1 sampled on 10/23/15',
+	'SR1Db': 'of Site 1 sampled on 10/23/15',
+	'SR1Ea': 'of Site 1 sampled on 11/13/15',
+	'SR1Eb': 'of Site 1 sampled on 11/13/15',
+	'SR2Ba': 'of Site 2 sampled on 9/25/15',
+	'SR2Ca': 'of Site 2 sampled on 10/09/15',
+	'SR2Cb': 'of Site 2 sampled on 10/09/15',
+	'SR2Da': 'of Site 2 sampled on 10/23/15',
+	'SR2Ea': 'of Site 2 sampled on 11/13/15',
+	'SR2Eb': 'of Site 2 sampled on 11/13/15',
+	
+};
